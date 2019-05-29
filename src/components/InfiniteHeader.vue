@@ -27,7 +27,7 @@ export default {
       logo: "igLogo.jpg",
       company_name: "Infinity Graphics",
       tag_line: "Hand Crafted Graphic Design And Web Development",
-      url: "https://infinity.graphics",
+      url: "https://jasonobject.tk",
       links: [
         {
           name:"About Us/ Portfolio",
